@@ -16,10 +16,10 @@ export default function Home({school}) {
   const [currentSlide, setCurrentSlide] = useState(0);
   const [banner ,setBanner] = useState([]);
   const images = [
-    "/homeGallary/HeroSectionImage2.png",
-    "/homeGallary/HeroSectionImage3.png",
-    "/homeGallary/HeroSectionImage4.png",
-    "/homeGallary/HeroSectionImage.png",
+    "/homeGallary/home1.jpg",
+    "/homeGallary/home3.jpg",
+    "/homeGallary/home4.jpg",
+    "/homeGallary/home6.jpg",
     // Add more images as needed
   ];
   const nextSlide = () => {
