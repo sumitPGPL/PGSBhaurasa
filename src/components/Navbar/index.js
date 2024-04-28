@@ -299,6 +299,14 @@ let dropdownItems = [
     ],
   },
   {
+    name: 'CBSE Regulations',
+    values: [
+      // { displayName: 'ERP login', path: '/ERP-login' },
+      // { displayName: 'Admission query', path: '/Admission-query' },
+      { displayName: 'Important process', path: '/Cbse-Regulations' },
+    ],
+  },
+  {
     name: 'FEATURES',
     values: [
       { displayName: 'Life at school', path: '/features/life_at_school' },
