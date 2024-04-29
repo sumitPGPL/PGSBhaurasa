@@ -126,11 +126,11 @@ const About = () => {
               START TO SUCCESS
             </p>
             <h1 className=" py-2 md:text-6xl text-4xl font-semibold">
-              Welcome to <span className="text-[#8b21cf]">PGS</span>{" "}
+              Welcome to <span className="text-[#8b21cf]">SGA</span>{" "}
               <span className="text-[#8b21cf]">Learners</span> Academy
             </h1>
             <p className="py-2 text-lg text-center text-gray-600">
-              At Pratibha Global School dedicated to providing a nurturing and
+              At SANJEEVANI GLOBAL ACADEMY dedicated to providing a nurturing and
               stimulating environment for young learners. With a commitment to
               excellence in early education, we believe in shaping curious minds
               and building a strong foundation for a lifelong love of learning.

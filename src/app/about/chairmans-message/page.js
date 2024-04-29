@@ -16,7 +16,7 @@ export default function page() {
                     <AboutMessageCard
                         img="/Mgt/chairperson.png"
                         heading="Mrs. Pratibha Chouksey, Co-Founder & Chairperson SKC LNCT Group Of Colleges"
-                        content="Greetings, Pratibha Global School community,
+                        content="Greetings, SANJEEVANI GLOBAL ACADEMY community,
 
                         It's an honor to lead our educational journey in Bhaurasa, Madhya Pradesh. Our commitment to providing quality education spans across Pre-Primary to Higher-Secondary levels. With a dedicated faculty and engaged parents, let's empower our students to excel academically and personally. Wishing everyone a year of discovery, growth, and success."
                         name="Mrs. Patibha Chouksey"

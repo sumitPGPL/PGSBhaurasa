@@ -73,7 +73,7 @@ const AdmissionForm = () => {
   const sliderImages = [
     {
       id: 1,
-      url: "/gallarySlider/jpeg-optimizer_PGS_0670-min.JPG",
+      url: "/gallarySlider/jpeg-optimizer_SGA_0670-min.JPG",
     },
     {
       id: 2,
@@ -81,7 +81,7 @@ const AdmissionForm = () => {
     },
     {
       id: 3,
-      url: "/gallarySlider/jpeg-optimizer_PGS_0806-min.JPG",
+      url: "/gallarySlider/jpeg-optimizer_SGA_0806-min.JPG",
     },
     {
       id: 4,
@@ -89,7 +89,7 @@ const AdmissionForm = () => {
     },
     {
       id: 5,
-      url: "/gallarySlider/jpeg-optimizer_PGS_0623-min.JPG",
+      url: "/gallarySlider/jpeg-optimizer_SGA_0623-min.JPG",
     },
     {
       id: 6,
@@ -316,7 +316,7 @@ const AdmissionForm = () => {
                     <span className="text-[#8b21cf]">of Young Learners </span>
                   </h1>
                   <p className="py-2 text-lg text-center text-gray-600">
-                    At Pratibha Global School, we welcome you to embark on an
+                    At SANJEEVANI GLOBAL ACADEMY, we welcome you to embark on an
                     exciting educational journey for your child. Our admission
                     process is designed to be transparent, straightforward, and
                     inclusive. Here's a step-by-step guide to joining our

@@ -86,7 +86,7 @@ export default function Home({school}) {
           </div>
           <div className="md:w-full lg:w-1/2 sm:w-full p-9  flex flex-col justify-center ">
             <h3 className="text-black text-sm border-b-2 border-black  font-bold sm:mt-4">
-              Welcome to Pratibha Global School
+              Welcome to SANJEEVANI GLOBAL ACADEMY
             </h3>
             <h1 className="text-3xl font-semibold text-black my-2 md:text-start lg:text-start sm:text-center">
               Where Young Minds Blossom and{" "}
@@ -205,7 +205,7 @@ export default function Home({school}) {
             <h2 className="text-3xl font-semibold text-black my-2 md:text-start lg:text-start sm:text-center">
               Welcome To Our{" "}
               <span className="text-tgreen text-4xl">
-                Pratibha Global School
+                SANJEEVANI GLOBAL ACADEMY
               </span>
             </h2>
             <p className="text-md mt-5">
@@ -272,7 +272,7 @@ export default function Home({school}) {
                 img: "/Testimonials/three.jpg",
                 Name: "Santosh Khanna",
                 Description:
-                  "My daughter's social and academic growth has been remarkable since joining Pratibha Global School. I am grateful for the supportive and dedicated teachers.",
+                  "My daughter's social and academic growth has been remarkable since joining SANJEEVANI GLOBAL ACADEMY. I am grateful for the supportive and dedicated teachers.",
               },
             ].map((val) => (
               <CardTestimonials cardDetails={val} />

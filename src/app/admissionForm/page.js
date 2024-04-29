@@ -28,12 +28,12 @@ function YourFormComponent() {
           <Image src='/new-1.svg' width={600} height={480} />
         </div>
         <div className='text-center'>
-          <h1 className='text-5xl font-extrabold py-5'>Welcome to <span className='text-orange-400'>PGS</span></h1>
+          <h1 className='text-5xl font-extrabold py-5'>Welcome to <span className='text-orange-400'>SGA</span></h1>
           <p>Small contextual welcome message.<br></br>Orchids Online Admission Form Fee Structure Enquiry Form</p>
         </div>
         <div className='bg-gradient-to-r from-pink-300 to-indigo-200 rounded-lg m-10 p-16'>
           <h1 className='text-5xl font-black text-white text-center '>Application Form</h1>
-          <p className='text-xl text-white text-center p-5'>PGS Online Admission Form Fee Structure Enquiry Form</p>
+          <p className='text-xl text-white text-center p-5'>SGA Online Admission Form Fee Structure Enquiry Form</p>
 
           {/* Render buttons dynamically based on buttonDescriptions */}
           <div className='flex justify-center pl-10'>
