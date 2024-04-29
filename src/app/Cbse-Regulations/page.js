@@ -14,7 +14,7 @@ const dataArray = [
     { id: 10, name: "WSC", url: "https://drive.google.com/file/d/1RywAjRT9jBzmCcctzVakesSStkPD9aAU/view?usp=sharing" },
     { id: 11, name: "NOC For Bhopal", url: "https://drive.google.com/file/d/1gHzwyHFoJE8U6RPOyuMd8NxSYZjJed-a/view?usp=sharing" },
     { id: 12, name: "SELF-CERTIFICATION PROFORMA", url: "https://drive.google.com/file/d/1Jb9hBJHA6c6d3OsDXZm8_SeIAeU92LD8/view?usp=sharing" },
-    { id: 13, name: "MPD", url: "https://drive.google.com/file/d/18wFIw1s88iwya6nfLMJMpufssnnfszGq/view?usp=sharing" },
+    { id: 13, name: "MANDATORY PUBLIC DISCLOSURE", url: "https://drive.google.com/file/d/18wFIw1s88iwya6nfLMJMpufssnnfszGq/view?usp=sharing" },
   ];
 
 const ExampleTable = () => {
