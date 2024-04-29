@@ -13,6 +13,7 @@ const dataArray = [
     { id: 9, name: "PTA ", url: "https://drive.google.com/file/d/1Z5T2cV1RlLQkHk0zZ4MqzvQXmX6chzqr/view?usp=sharing" },
     { id: 10, name: "WSC", url: "https://drive.google.com/file/d/1RywAjRT9jBzmCcctzVakesSStkPD9aAU/view?usp=sharing" },
     { id: 11, name: "NOC For Bhopal", url: "https://drive.google.com/file/d/1gHzwyHFoJE8U6RPOyuMd8NxSYZjJed-a/view?usp=sharing" },
+    { id: 11, name: "SELF-CERTIFICATION PROFORMA", url: "https://drive.google.com/file/d/1Jb9hBJHA6c6d3OsDXZm8_SeIAeU92LD8/view?usp=sharing" },
   ];
 
 const ExampleTable = () => {
