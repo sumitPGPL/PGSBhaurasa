@@ -14,7 +14,7 @@ export default function AdmissionEnquiry() {
       >
         <h1 className=" lg:text-6xl md:6xl sm:2xl text-[#010402]  text-center">
           WELCOME <br></br>TO <br></br>
-          <bold className="">PRATIBHA GLOBAL SCHOOL</bold>
+          <bold className="">SANJEEVANI GLOBAL ACADEMY</bold>
         </h1>
         <div className="flex space-x-4 mt-20">
           <button

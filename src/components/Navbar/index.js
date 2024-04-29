@@ -104,10 +104,10 @@ const Navbar = () => {
           <div className="w-full h-[20%] bg-white flex justify-center">
             <div className="container flex flex-col md:flex-row justify-between w-full md:w-[90%] p-5 gap-10 items-center">
               <div >
-                <Image className='w-auto' alt="image" width={170} height={90} src="/Screenshot 2024-01-15 183512.png"  />
+                <Image className='w-auto' alt="image" width={120} height={90} src="/sga logo.jpg"  />
               </div>
               <div className="md:w-1/2 flex flex-col justify-center text-center">
-                <h5 className="text-[#b554f8] text-2xl md:text-3xl font-extrabold">PRATIBHA GLOBAL SCHOOL BHAURASA</h5>
+                <h5 className="text-[#b554f8] text-2xl md:text-3xl font-extrabold">SANJEEVANI GLOBAL ACADEMY BHAURASA</h5>
                 <h5 className="text-sm md:text-base">CBSE Board&nbsp; AFFILIATION NO.- 1031313 , SCHOOL
                     CODE. - 51330</h5>
               </div>

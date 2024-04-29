@@ -30,7 +30,7 @@ const Footer = () => {
 
             <div className="col-span-2 lg:col-span-3 lg:flex lg:items-end"></div>
             <div className="col-span-2 sm:col-span-1">
-              <p className="font-medium text-gray-900">PGS-Schools</p>
+              <p className="font-medium text-gray-900">SGA-Schools</p>
 
               <ul className="mt-6 space-y-4 text-sm">
                 <li>
@@ -39,57 +39,57 @@ const Footer = () => {
                     href="https://pratibha-global-school.vercel.app/"
                     className="text-gray-700 transition hover:opacity-75"
                   >
-                    PGS-Bhaurasa
+                    SGA-Bhaurasa
                   </Link>
                 </li>
 
                 <li>
                   <Link
                     target="_blank"
-                    href="https://pgs-bagli-one.vercel.app/"
+                    href="https://SGA-bagli-one.vercel.app/"
                     className="text-gray-700 transition hover:opacity-75"
                   >
-                    PGS-Bagli
+                    SGA-Bagli
                   </Link>
                 </li>
 
                 <li>
                   <Link
                     target="_blank"
-                    href="https://pgs-sonkatch.vercel.app/"
+                    href="https://SGA-sonkatch.vercel.app/"
                     className="text-gray-700 transition hover:opacity-75"
                   >
-                    PGS-Sonkatch
+                    SGA-Sonkatch
                   </Link>
                 </li>
 
                 <li>
                   <Link
                     target="_blank"
-                    href="https://pgs-gwaliour.vercel.app"
+                    href="https://SGA-gwaliour.vercel.app"
                     className="text-gray-700 transition hover:opacity-75"
                   >
-                    PGS-Gwalior
+                    SGA-Gwalior
                   </Link>
                 </li>
 
                 <li>
                   <Link
                     target="_blank"
-                    href="https://pgs-bhaurasa.vercel.app"
+                    href="https://SGA-bhaurasa.vercel.app"
                     className="text-gray-700 transition hover:opacity-75"
                   >
-                    PGS-Bhaurasa
+                    SGA-Bhaurasa
                   </Link>
                 </li>
 
                 <li>
                   <Link
                     target="_blank"
-                    href="https://pgs-dewas-0.vercel.app/"
+                    href="https://SGA-dewas-0.vercel.app/"
                     className="text-gray-700 transition hover:opacity-75"
                   >
-                    PGS-Dewas
+                    SGA-Dewas
                   </Link>
                 </li>
               </ul>

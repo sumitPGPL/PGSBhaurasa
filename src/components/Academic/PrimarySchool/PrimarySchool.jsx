@@ -22,11 +22,11 @@ export default function PrimarySchool() {
         <div className="bg-white p-8 rounded-lg shadow-lg">
           <h2 className="text-3xl text-center font-semibold mb-4">
             {" "}
-            Welcome to Tarang phase at Pratibha global school
+            Welcome to Tarang phase at SANJEEVANI GLOBAL ACADEMY
           </h2>
           <h2 className="text-lg">About Our Tarang Phase Program :</h2>
           <p className="text-lg leading-relaxed">
-            Overview: At Pratibha global school, we take pride in providing a
+            Overview: At SANJEEVANI GLOBAL ACADEMY, we take pride in providing a
             vibrant and enriching educational experience for our students. Our
             Primary School program is designed to lay a solid foundation for
             academic excellence, personal development, and lifelong learning.
@@ -43,7 +43,7 @@ export default function PrimarySchool() {
         </li>
         <li className="text-lg  p-4">
           <span className="font-bold ">Experienced and Dedicated Faculty:</span>
-          Pratibha global school is home to a team of experienced and passionate
+          SANJEEVANI GLOBAL ACADEMY is home to a team of experienced and passionate
           educators who are committed to nurturing the intellectual, social, and
           emotional growth of every student. Our teachers create a supportive
           and inspiring learning environment.

@@ -14,7 +14,7 @@ export default function page() {
             FACULTY AT THE SCHOOL
           </h1>
           <h2 className=" text-center text-4xl mt-5 font-extrabold text-tgreen">
-            Pratibha Global School, Bhaurasa
+            SANJEEVANI GLOBAL ACADEMY, Bhaurasa
           </h2>
           <h3 className=" text-center text-2xl mt-2 font-semibold text-tgreen">
             SESSION 2024-25

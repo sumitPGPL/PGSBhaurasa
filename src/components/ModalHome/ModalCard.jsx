@@ -38,7 +38,7 @@ export default function ModalCard() {
   return (
     <>
       <div className="w-full h-full " >
-        <h1 className='text-center p-3 text-tgreen text-5xl font-extrabold'>Pratibha Global School, Bhaurasa</h1>
+        <h1 className='text-center p-3 text-tgreen text-5xl font-extrabold'>SANJEEVANI GLOBAL ACADEMY, Bhaurasa</h1>
         <h2 className='text-center p-3 text-tgreen text-3xl font-extrabold'>Admission Open 2024-25</h2>
 
         <div className='flex flex-col md:flex-row md:justify-around items-center bg-cover'>

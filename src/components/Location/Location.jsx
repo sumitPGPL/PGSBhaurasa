@@ -3,7 +3,7 @@ import CollegeContainer from "../Container/CollegeContainer"
 import WhatsappSvg from "../SVG/WhatsappSvg"
 
 const schools =[{
-    name: 'PRATIBHA GLOBAL SCHOOL , Bhaurasa',
+    name: 'SANJEEVANI GLOBAL ACADEMY , Bhaurasa',
     location: 'BHAWARASALA , BEHIND ARVINDO REVATI, Sanwer Rd, Bhaurasa, Madhya Pradesh 453555',
     img: 'https://content.jdmagicbox.com/comp/delhi/z1/011pxx11.xx11.200122132514.v3z1/catalogue/global-pratibha-international-school-dwarka-sector-8-delhi-schools-1t0d4ucxsp.jpg?clr=',
     contact: '9080000',
@@ -15,7 +15,7 @@ const schools =[{
     whatsappDeepLink:''
 },
 {
-    name: 'PRATIBHA GLOBAL SCHOOL , Bhaurasa',
+    name: 'SANJEEVANI GLOBAL ACADEMY , Bhaurasa',
     location: 'BHAWARASALA , BEHIND ARVINDO REVATI, Sanwer Rd, Bhaurasa, Madhya Pradesh 453555',
     img: 'https://content.jdmagicbox.com/comp/delhi/z1/011pxx11.xx11.200122132514.v3z1/catalogue/global-pratibha-international-school-dwarka-sector-8-delhi-schools-1t0d4ucxsp.jpg?clr=',
     contact: '9080000',
@@ -27,7 +27,7 @@ const schools =[{
     whatsappDeepLink:''
 },
 {
-    name: 'PRATIBHA GLOBAL SCHOOL , BHAURASA',
+    name: 'SANJEEVANI GLOBAL ACADEMY , BHAURASA',
     location: 'BHAWARASALA , BEHIND ARVINDO REVATI, Sanwer Rd, Bhaurasa, Madhya Pradesh 453555',
     img: 'https://content.jdmagicbox.com/comp/delhi/z1/011pxx11.xx11.200122132514.v3z1/catalogue/global-pratibha-international-school-dwarka-sector-8-delhi-schools-1t0d4ucxsp.jpg?clr=',
     contact: '9080000',
@@ -39,7 +39,7 @@ const schools =[{
     whatsappDeepLink:''
 },
 {
-    name: 'PRATIBHA GLOBAL SCHOOL , BAGLI',
+    name: 'SANJEEVANI GLOBAL ACADEMY , BAGLI',
     location: 'BHAWARASALA , BEHIND ARVINDO REVATI, Sanwer Rd, Bhaurasa, Madhya Pradesh 453555',
     img: 'https://content.jdmagicbox.com/comp/delhi/z1/011pxx11.xx11.200122132514.v3z1/catalogue/global-pratibha-international-school-dwarka-sector-8-delhi-schools-1t0d4ucxsp.jpg?clr=',
     contact: '9080000',
@@ -51,7 +51,7 @@ const schools =[{
     whatsappDeepLink:''
 },
 {
-    name: 'PRATIBHA GLOBAL SCHOOL , SONKATCH',
+    name: 'SANJEEVANI GLOBAL ACADEMY , SONKATCH',
     location: 'BHAWARASALA , BEHIND ARVINDO REVATI, Sanwer Rd, Bhaurasa, Madhya Pradesh 453555',
     img: 'https://content.jdmagicbox.com/comp/delhi/z1/011pxx11.xx11.200122132514.v3z1/catalogue/global-pratibha-international-school-dwarka-sector-8-delhi-schools-1t0d4ucxsp.jpg?clr=',
     contact: '9080000',
@@ -63,7 +63,7 @@ const schools =[{
     whatsappDeepLink:''
 },
 {
-    name: 'PRATIBHA GLOBAL SCHOOL , GWALIOR',
+    name: 'SANJEEVANI GLOBAL ACADEMY , GWALIOR',
     location: 'BHAWARASALA , BEHIND ARVINDO REVATI, Sanwer Rd, Bhaurasa, Madhya Pradesh 453555',
     img: 'https://content.jdmagicbox.com/comp/delhi/z1/011pxx11.xx11.200122132514.v3z1/catalogue/global-pratibha-international-school-dwarka-sector-8-delhi-schools-1t0d4ucxsp.jpg?clr=',
     contact: '9080000',

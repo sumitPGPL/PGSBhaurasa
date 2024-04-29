@@ -38,7 +38,7 @@ export default function AboutManagement() {
             <AboutManagementCard
               img="/staff/umesh.jpg"
               name="Mr. Umesh soni"
-              post="Principal (Pratibha Global School, Bhaurasa)"
+              post="Principal (SANJEEVANI GLOBAL ACADEMY, Bhaurasa)"
               link="/about/principals-message"
             />
           </div>

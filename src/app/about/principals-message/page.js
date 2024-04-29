@@ -14,9 +14,9 @@ export default function page() {
           </h1>
           <AboutMessageCard
             img="/staff/umesh.jpg"
-            heading="Mr. Umesh Soni, Principal (Pratibha Global School, Bhaurasa)"
-            content="Dear Pratibha Global School Community,
-                        As we commence a new academic year in the vibrant city of Bhaurasa, Madhya Pradesh, I extend a heartfelt welcome to our esteemed students, dedicated parents, and passionate educators. At Pratibha Global School, we take pride in providing a holistic educational experience catering to students across diverse stages from the formative years of Pre-Primary to the pinnacle of Higher-Secondary education.
+            heading="Mr. Umesh Soni, Principal (SANJEEVANI GLOBAL ACADEMY, Bhaurasa)"
+            content="Dear SANJEEVANI GLOBAL ACADEMY Community,
+                        As we commence a new academic year in the vibrant city of Bhaurasa, Madhya Pradesh, I extend a heartfelt welcome to our esteemed students, dedicated parents, and passionate educators. At SANJEEVANI GLOBAL ACADEMY, we take pride in providing a holistic educational experience catering to students across diverse stages from the formative years of Pre-Primary to the pinnacle of Higher-Secondary education.
                         
                         Our mission is to foster an environment that promotes not only academic excellence but also personal growth, character development, and a spirit of collaboration. Together, let's embark on a journey of exploration, curiosity, and achievement.
                         

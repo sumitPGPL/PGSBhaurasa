@@ -22,11 +22,11 @@ export default function Kindergarten() {
         <div className="bg-white p-8 rounded-lg shadow-lg">
           <h2 className="text-3xl text-center font-semibold mb-4">
             {" "}
-            Welcome to Umang phase at Pratibha global school
+            Welcome to Umang phase at SANJEEVANI GLOBAL ACADEMY
           </h2>
           <h2 className="text-lg">About Our Umang Phase Program</h2>
           <p className="text-lg leading-relaxed">
-            Overview: At Pratibha global school, we believe in providing a
+            Overview: At SANJEEVANI GLOBAL ACADEMY, we believe in providing a
             nurturing and stimulating environment for our youngest learners. Our
             kindergarten program is designed to foster holistic development,
             preparing children for a lifetime of curiosity and learning.
@@ -36,7 +36,7 @@ export default function Kindergarten() {
       <ul className=" lg:w-3/4 md:3/4 mx-auto list-disc p-10 ">
         <li className="text-lg  p-4">
           <span className="font-bold  ">Play-Based Learning: </span>
-          Kindergarten at Pratibha global school emphasizes play-based learning
+          Kindergarten at SANJEEVANI GLOBAL ACADEMY emphasizes play-based learning
           to encourage creativity and social interaction. Our activities are
           carefully crafted to be both educational and enjoyable, promoting a
           love for learning.{" "}
@@ -55,7 +55,7 @@ export default function Kindergarten() {
         </li>
         <li className="text-lg  p-4">
           <span className="font-bold">Creativity and Expressive Arts: </span>
-          Pratibha global school values creativity and self-expression. Our
+          SANJEEVANI GLOBAL ACADEMY values creativity and self-expression. Our
           kindergarten program includes various art, music, and creative
           activities to inspire imagination and artistic exploration.{" "}
         </li>

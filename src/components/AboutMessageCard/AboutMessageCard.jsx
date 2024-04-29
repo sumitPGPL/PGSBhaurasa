@@ -30,7 +30,7 @@ export default function AboutMessageCard({
         <span className="p-2 mt-2">
           <h1 className="font-bold">{name}</h1>
           <h2>{post}</h2>
-          <h2>Pratibha Global School</h2>
+          <h2>SANJEEVANI GLOBAL ACADEMY</h2>
           <h3>{place}</h3>
         </span>
       </div>

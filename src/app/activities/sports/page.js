@@ -24,11 +24,11 @@ const Component1 = () => {
         },
     ],
 
-    headTitle:'SPORTS AT PGS',
+    headTitle:'SPORTS AT SGA',
     headDescription:'"What can be learned on the ground cannot be learned in the classroom"',
     sectionTitle: 'Art for Kids',
     sectionDescription:
-      'At PGS, we lay a strong emphasis on sports and physical development. Our sports curriculum is planned and designed for students to develop and enhance skills like strength, speed, endurance, agility, flexibility, control, balance etc. Sports today has also evolved as a form of entertainment and also offers promising careers We believe in mass participation, exposing our students to a number of sports events at inter-school, state, national and international levels. Every student is encouraged to join at least one school sports team. The P.E. teachers we employ are young and energetic with a good amount of expertise in sports and provide coaching for sports like football, basketball, throwball etc.',
+      'At SGA, we lay a strong emphasis on sports and physical development. Our sports curriculum is planned and designed for students to develop and enhance skills like strength, speed, endurance, agility, flexibility, control, balance etc. Sports today has also evolved as a form of entertainment and also offers promising careers We believe in mass participation, exposing our students to a number of sports events at inter-school, state, national and international levels. Every student is encouraged to join at least one school sports team. The P.E. teachers we employ are young and energetic with a good amount of expertise in sports and provide coaching for sports like football, basketball, throwball etc.',
     videoUrl: 'https://www.youtube.com/embed/your-video-id1',
     backgroundImage: '/business-idea.png',
   };

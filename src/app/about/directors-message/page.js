@@ -13,7 +13,7 @@ export default function page() {
         <AboutMessageCard
             img="/Mgt/director.png"
             heading="Mr. Suprabhat Chouksey, Managing Director of SKC LNCT Group Of Colleges "
-            content="Greetings, Pratibha Global School community!
+            content="Greetings, SANJEEVANI GLOBAL ACADEMY community!
 
             As the Director, I'm thrilled to welcome our students, parents, and staff to a promising academic year in Bhaurasa, Madhya Pradesh. Our commitment to fostering excellence across Pre-Primary to Higher-Secondary levels remains unwavering. Let's embark on this educational journey together, nurturing minds, and shaping futures. Wishing all a year filled with growth, achievements, and memorable learning experiences."
             name="Mr. Suprabhat Chouksey"
