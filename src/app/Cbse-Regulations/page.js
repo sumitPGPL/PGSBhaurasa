@@ -11,7 +11,8 @@ const dataArray = [
     { id: 7, name: "BSC", url: "https://drive.google.com/file/d/1pLE_FzWVNSzt-hpXSIfJzHTGsEoIG219/view?usp=sharing" },
     { id: 8, name: "FIRE NOC", url: "https://drive.google.com/file/d/14O-SLoEkDmgpmp5479o1eKL_0Leh7aBY/view?usp=sharing" },
     { id: 9, name: "PTA ", url: "https://drive.google.com/file/d/1Z5T2cV1RlLQkHk0zZ4MqzvQXmX6chzqr/view?usp=sharing" },
-    { id: 10, name: "WSC", url: "https://drive.google.com/file/d/1Z5T2cV1RlLQkHk0zZ4MqzvQXmX6chzqr/view?usp=sharing" },
+    { id: 10, name: "WSC", url: "https://drive.google.com/file/d/1RywAjRT9jBzmCcctzVakesSStkPD9aAU/view?usp=sharing" },
+    { id: 11, name: "NOC For Bhopal", url: "https://drive.google.com/file/d/1gHzwyHFoJE8U6RPOyuMd8NxSYZjJed-a/view?usp=sharing" },
   ];
 
 const ExampleTable = () => {
