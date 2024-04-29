@@ -55,7 +55,7 @@ export default function PrimarySchool() {
           thinking, leadership skills, and a sense of responsibility.
         </li>
         <li className="text-lg  p-4">
-          <span className="font-bold">Modern Facilities:</span>Pratibha global
+          <span className="font-bold">Modern Facilities:</span>Sanjeevani Global 
           school is equipped with modern facilities to enhance the learning
           experience. Our classrooms are technologically advanced, and we
           provide spaces for sports, arts, and extracurricular activities.

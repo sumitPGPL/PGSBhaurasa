@@ -203,7 +203,7 @@ const About = () => {
               VISION
             </h5>
             <p className="font-normal text-gray-700 dark:text-gray-400  sm:h-auto">
-              Our vision at Pratibha Global is to shine as a beacon of
+              Our vision at Sanjeevani Global  is to shine as a beacon of
               educational excellence, inspiring children to embark on a journey
               of exploration, discovery, and expression of their unique talents.
               We aspire to cultivate a generation of lifelong learners, armed
@@ -222,7 +222,7 @@ const About = () => {
               MISSION
             </h5>
             <p className="font-normal text-black dark:text-gray-400 sm:h-auto">
-              At Pratibha Global, our mission is to ignite a love for learning
+              At Sanjeevani Global , our mission is to ignite a love for learning
               and empower young minds to evolve into confident, compassionate,
               and creative individuals. We are dedicated to establishing a
               secure and inclusive environment where children flourish

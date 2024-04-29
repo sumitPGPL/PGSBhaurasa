@@ -16,9 +16,9 @@ export default function Home({school}) {
   const [currentSlide, setCurrentSlide] = useState(0);
   const [banner ,setBanner] = useState([]);
   const images = [
-    "/homeGallary/home1.jpg",
+    // "/homeGallary/home1.jpg",
     "/homeGallary/home3.jpg",
-    "/homeGallary/home4.jpg",
+    // "/homeGallary/home4.jpg",
     "/homeGallary/home6.jpg",
     // Add more images as needed
   ];
@@ -214,10 +214,10 @@ export default function Home({school}) {
               Development in artificial intelligence, robotics and genetic
               engineering is making the current workforce redundant and only
               those who are able to learn and train themselves with these
-              technologies will be able to continue forward. At Pratibha Global
+              technologies will be able to continue forward. At Sanjeevani Global 
               Indore School we ensure that all children at our campus inculcate
               a rapid learning aptitude and a competitive spirit from the very
-              beginning. Pratibha Global Indore School aims to provide a
+              beginning. Sanjeevani Global  Indore School aims to provide a
               holistic education and conducive atmosphere to every child for
               their emotional, spiritual, physical and intellectual growth along
               with the ability to conquer future challenges.
@@ -260,13 +260,13 @@ export default function Home({school}) {
                 img: "/Testimonials/one.jfif",
                 Name: "Mahesh Kumar",
                 Description:
-                  "Pratibha Global Shool has been a second home for my child. The caring staff and engaging programs have made her excited to go to school every day!",
+                  "Sanjeevani Global Academy has been a second home for my child. The caring staff and engaging programs have made her excited to go to school every day!",
               },
               {
                 img: "/Testimonials/two.jpg",
                 Name: "Anita Solanki",
                 Description:
-                  "Choosing Pratibha Global Shool for my daughter was the best decision. She has thrived in their nurturing and stimulating environment.",
+                  "Choosing Sanjeevani Global Academy for my daughter was the best decision. She has thrived in their nurturing and stimulating environment.",
               },
               {
                 img: "/Testimonials/three.jpg",
