@@ -58,7 +58,7 @@ export default function Imglider({ images }) {
             height={30}
           ></Image>
         </button>
-        <button onClick={scrollRight} className="px-4 py-2 shadow rounded-md">
+        <button onClick={scrollRight} className="px-4 py-3 shadow rounded-md">
           <Image
             alt="image"
             src={"/right-arrow.svg"}
