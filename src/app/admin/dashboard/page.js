@@ -3,10 +3,8 @@ import Dashboard from "@/components/Dashboard/AdminDashboard";
 import { getAllAdmissions } from "@/lib/services/admission";
 import { getAllNews } from "@/lib/services/news";
 import { getUsers, loadProfile } from "@/lib/services/user/userServices";
-import { getEvent } from "@/lib/services/events/eventSevices";
-
+import { getEvent } from "@/lib/services/events/eventSevices"; 
 import { getAllNotice } from "@/lib/services/notices/index";
-
 import { getSchoolDetails } from "@/lib/services/schools/schoolservices";
 import { myUuid } from "@/lib/constants/school";
 

@@ -4,7 +4,7 @@ import React, { useRef } from "react";
 import HeadingText from "@/components/HeadingText/heading";
 import Image from "next/image";
 
-export default function page({ images }) {
+export default function Imglider({ images }) {
   const sliderRef = useRef(null);
   const scrollAmount = 100;
 
@@ -25,7 +25,7 @@ export default function page({ images }) {
       <HeadingText
         title="Awards"
         subtitle="Our Awards and Recognitions"
-        content="Little Learners Academy takes pride in our commitment to delivering high-quality education and outstanding student experiences. We are honored to have received various awards and recognitions for our dedication to early childhood education. These accolades reflect our team's relentless efforts in creating an exceptional learning environment for our students."
+        content="Little Learners Academy takes prides in our commitment to delivering high-quality education and outstanding student experiences. We are honored to have received various awards and recognitions for our dedication to early childhood education. These accolades reflect our team's relentless efforts in creating an exceptional learning environment for our students."
       />
       <div className="flex justify-center items-center">
         <div
@@ -58,7 +58,7 @@ export default function page({ images }) {
             height={30}
           ></Image>
         </button>
-        <button onClick={scrollRight} className="px-4 py-2 shadow rounded-md">
+        <button onClick={scrollRight} className="px-4 py-3 shadow rounded-md">
           <Image
             alt="image"
             src={"/right-arrow.svg"}
