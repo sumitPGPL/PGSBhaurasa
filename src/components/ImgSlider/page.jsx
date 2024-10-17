@@ -4,7 +4,7 @@ import React, { useRef } from "react";
 import HeadingText from "@/components/HeadingText/heading";
 import Image from "next/image";
 
-export default function page({ images }) {
+export default function Imglider({ images }) {
   const sliderRef = useRef(null);
   const scrollAmount = 100;
 
