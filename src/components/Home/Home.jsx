@@ -193,8 +193,8 @@ export default function Home({school}) {
                 headingDescription:
                   "We foster a strong parent-school partnership to ensure seamless communication and collaboration.",
               },
-            ].map((val) => (
-              <CardSvgParagraph cardDetails={val} />
+            ].map((val,index) => (
+              <CardSvgParagraph cardDetails={val} key={index} />
             ))}
           </div>
         </div>
@@ -274,8 +274,8 @@ export default function Home({school}) {
                 Description:
                   "My daughter's social and academic growth has been remarkable since joining SANJEEVANI GLOBAL ACADEMY. I am grateful for the supportive and dedicated teachers.",
               },
-            ].map((val) => (
-              <CardTestimonials cardDetails={val} />
+            ].map((val,index) => (
+              <CardTestimonials cardDetails={val} key={index}/>
             ))}
           </div>
         </div>
@@ -347,8 +347,8 @@ export default function Home({school}) {
                 Description:
                   "Our News featuring a curated blend of academic accomplishments, extracurricular highlights, and important announcements, this section fosters a sense of community engagement, providing a central hub for staying connected with the vibrant happenings within the school environment.",
               },
-            ].map((val) => (
-              <CardNavigatePage cardDetails={val} />
+            ].map((val,index) => (
+              <CardNavigatePage cardDetails={val} key={index}/>
             ))}
           </div>
         </div>
